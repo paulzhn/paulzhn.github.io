@@ -25,11 +25,17 @@ My research interest includes cloud computing and serverless. I am also interest
 
 # 📖 Educations
 - *2022.09 - 2025.03 (expected)*, M.Eng. in Software Engineering, College of Software Technology, Zhejiang University 
+  - Research Area: Cloud computing, Serverless
+  - Lab: [Software Engineering Lab (SEL)](http://www.sel.zju.edu.cn/)
+  - Advisor: Professor Xiaohu Yang, Associate Researcher Zhengong Cai
 - *2018.09 - 2022.07*, B.E. in Software Engineering, School of Software Engineering, Beijing Jiaotong University
 
 # 💻 Internships
 - *2024.04 - 2024.08*, Tencent - CSIG, Hangzhou.
+  - Develop a high-performance event distribution framework compatible with Kubernetes APIs.
+  - Performance benchmark (compared to the original framework under the same business logic): E2E latency -70%, CPU Time -75%, Memory -10%.
 - *2022.02 - 2022.08*, Bytedance - Infra, Beijing.
+  - Design a control plane data synchronization mechanism between cloud and edge, extending Service Mesh capabilities to edge data centers.
 
 <!-- 
 # 🔥 News
